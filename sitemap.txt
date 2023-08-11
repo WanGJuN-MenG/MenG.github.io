@@ -1,2 +1,6 @@
+http://akjkdk.xyz/resources/index.html
+http://akjkdk.xyz/about/index.html
+http://akjkdk.xyz/tags/index.html
+http://akjkdk.xyz/categories/index.html
 http://akjkdk.xyz/2023/08/10/hello-world/
 http://akjkdk.xyz/
